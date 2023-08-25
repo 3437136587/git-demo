@@ -9,9 +9,7 @@ hello ataiit！ hello git!
 hello ataiit！ hello git!
 hello ataiit！ hello git!
 hello ataiit！ hello git!
-
+hello ataiit!  hello git!
 hello ataiit！ hello git!
 hello ataiit！ hello git!
 hello ataiit！ hello git!
-
-You discovered the command-line window! You can close it with ":q".
